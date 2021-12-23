@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item-->
+<!--        android:id="@+id/app_bar_search"-->
+<!--        android:icon="@drawable/ic_baseline_search_24"-->
+<!--        android:title="Search"-->
+<!--        app:actionViewClass="android.widget.SearchView"-->
+<!--        app:showAsAction="always" />-->
+    <item
+        android:id="@+id/sync"
+        android:icon="@drawable/ic_baseline_cloud_upload_24"
+        android:title="Save To Cloud"
+        app:showAsAction="withText|always"
+        />
+
+    <item
+        android:id="@+id/download"
+        android:icon="@drawable/ic_baseline_cloud_download_24"
+        android:title="Fetch From Cloud"
+        app:showAsAction="always|withText"
+        />
+
+</menu>

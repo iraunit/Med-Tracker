@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medicine Tracker</string>
+    <string name="clientid">848483661781-9lehrucakon50t4namors6s4b5j8dtu4.apps.googleusercontent.com</string>
+    <string name="sign_in_through_google">Sign In Through Google</string>
+    <string name="open">hello</string>
+    <string name="close">close</string>
+    <string name="channel_name">RaunitVerma</string>
+    <string name="channel_description">Raunit Verma</string>
+    <string name="snooze">Snooze</string>
+</resources>

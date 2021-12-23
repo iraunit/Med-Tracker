@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848483661781",
+    "project_id": "medicine-tracker-systemzombies",
+    "storage_bucket": "medicine-tracker-systemzombies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848483661781:android:fbce0a3c4138b6fd6c2f5c",
+        "android_client_info": {
+          "package_name": "com.shyptsolution.medicinetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848483661781-9lehrucakon50t4namors6s4b5j8dtu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_M-8yJUqGEKCLWfWuDsR57QOzk1JPUMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848483661781-9lehrucakon50t4namors6s4b5j8dtu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

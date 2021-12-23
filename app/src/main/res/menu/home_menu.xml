@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24_white"
+        android:title="DashBoard"
+        app:showAsAction="always" />
+<!--    <item-->
+<!--        android:id="@+id/medication"-->
+<!--        android:icon="@drawable/ic_baseline_medical_services_24"-->
+<!--        android:title="Medication"-->
+<!--        app:showAsAction="always" />-->
+    <item
+        android:id="@+id/buymedicine"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24_white"
+        android:title="Buy Medicines"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/exitapp"
+        android:icon="@drawable/ic_baseline_exit_to_app_24_white"
+        android:title="Exit App"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_login_24_white"/>
+</menu>
